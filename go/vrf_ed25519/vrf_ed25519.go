@@ -26,7 +26,7 @@ import (
 //	"encoding/hex"
 
 	"golang.org/x/crypto/ed25519"
-	"github.com/Finschia/vrf/go/vrf_ed25519/edwards25519"	// copied from "golang.org/x/crypto/ed25519/internal/edwards25519"
+	"github.com/Finschia/r2ishiguro_vrf/go/vrf_ed25519/edwards25519"	// copied from "golang.org/x/crypto/ed25519/internal/edwards25519"
 )
 
 const (

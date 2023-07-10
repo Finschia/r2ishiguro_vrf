@@ -26,7 +26,7 @@ import (
 	"fmt"
 
 	"golang.org/x/crypto/ed25519"
-	ed1 "github.com/Finschia/vrf/go/vrf_ed25519/edwards25519"
+	ed1 "github.com/Finschia/r2ishiguro_vrf/go/vrf_ed25519/edwards25519"
 	ed2 "github.com/yahoo/coname/ed25519/edwards25519"
 )
 
